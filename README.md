@@ -22,7 +22,7 @@ pod 'FormKit'
 
 ## Author
 
-jmade, justin.madewell@earthwavetech.com
+jmade, justinmadewell@me.com
 
 ## License
 
