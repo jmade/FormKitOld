@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FormKit_Example' do
+  pod 'FormKit', :path => '../'
+
+  target 'FormKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
