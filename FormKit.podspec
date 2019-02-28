@@ -23,13 +23,13 @@ Using UITableView this will allow you to easily create forms with different type
 
   s.homepage         = 'https://github.com/jmade/FormKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'jmade' => 'justinmadewell@me.com' }
+  s.author           = { 'Justin Madewell' => 'justinmadewell@me.com' }
   s.source           = { :git => 'https://github.com/jmade/FormKit.git', :tag => s.version.to_s }
 
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'FormKit/Classes/**/*'
+  s.source_files = 'FormKit/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'FormKit' => ['FormKit/Assets/*.png']
