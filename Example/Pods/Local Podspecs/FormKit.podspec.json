@@ -1,0 +1,22 @@
+{
+  "name": "FormKit",
+  "version": "0.1.0",
+  "summary": "A short description of FormKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jmade/FormKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jmade": "justin.madewell@earthwavetech.com"
+  },
+  "source": {
+    "git": "https://github.com/jmade/FormKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FormKit/Classes/**/*"
+}
